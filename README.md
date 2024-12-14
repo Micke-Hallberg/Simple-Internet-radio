@@ -34,5 +34,9 @@ GND -> GND (Naturally)<br>
 <b>Oled &emsp;ESP</b><br>
 SDA -> 21<br>
 SCL -> 22<br>
-Those two GPIO is the standard for most ESP32 and the Wire library.
+Those two GPIO is the standard for most ESP32 and the Wire library.<br>
+<br>
+<br>
+Will fill in more later!
+
 
