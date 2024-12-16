@@ -36,6 +36,8 @@ SDA -> 21<br>
 SCL -> 22<br>
 Those two GPIO is the standard for most ESP32 and the Wire library.<br>
 <br>
+A Fritzing schematics ( I know it isn't the best, but I can't draw a straight line, not even with the computers help)<br>
+is found among the files. take a look at it if you want to kno how I have done the connections.<br>
 <br>
 Will fill in more later!
 
